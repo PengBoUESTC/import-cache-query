@@ -1,5 +1,5 @@
 {
-  "name": "package-template",
+  "name": "import-cache-query",
   "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
