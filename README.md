@@ -4,7 +4,7 @@
 
 ```javascript
 // plugin.mjs
-import { ImportQueryHook } from './hook.mjs'
+import { ImportQueryHook } from 'import-cache-query'
 
 export const resolve = ImportQueryHook({
   filter: 'postcss.config'
